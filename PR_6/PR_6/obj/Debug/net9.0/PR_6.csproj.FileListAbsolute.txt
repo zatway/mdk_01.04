@@ -1,0 +1,15 @@
+C:\work\mdk 01.04\PR_6\PR_6\bin\Debug\net9.0\PR_6.exe
+C:\work\mdk 01.04\PR_6\PR_6\bin\Debug\net9.0\PR_6.deps.json
+C:\work\mdk 01.04\PR_6\PR_6\bin\Debug\net9.0\PR_6.runtimeconfig.json
+C:\work\mdk 01.04\PR_6\PR_6\bin\Debug\net9.0\PR_6.dll
+C:\work\mdk 01.04\PR_6\PR_6\bin\Debug\net9.0\PR_6.pdb
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\PR_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\PR_6.AssemblyInfoInputs.cache
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\PR_6.AssemblyInfo.cs
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\PR_6.csproj.CoreCompileInputs.cache
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\PR_6.sourcelink.json
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\PR_6.dll
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\refint\PR_6.dll
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\PR_6.pdb
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\PR_6.genruntimeconfig.cache
+C:\work\mdk 01.04\PR_6\PR_6\obj\Debug\net9.0\ref\PR_6.dll

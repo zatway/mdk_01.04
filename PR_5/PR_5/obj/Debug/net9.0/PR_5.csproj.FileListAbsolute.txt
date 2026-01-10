@@ -1,0 +1,15 @@
+C:\work\mdk 01.04\PR_5\PR_5\bin\Debug\net9.0\PR_5.exe
+C:\work\mdk 01.04\PR_5\PR_5\bin\Debug\net9.0\PR_5.deps.json
+C:\work\mdk 01.04\PR_5\PR_5\bin\Debug\net9.0\PR_5.runtimeconfig.json
+C:\work\mdk 01.04\PR_5\PR_5\bin\Debug\net9.0\PR_5.dll
+C:\work\mdk 01.04\PR_5\PR_5\bin\Debug\net9.0\PR_5.pdb
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\PR_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\PR_5.AssemblyInfoInputs.cache
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\PR_5.AssemblyInfo.cs
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\PR_5.csproj.CoreCompileInputs.cache
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\PR_5.sourcelink.json
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\PR_5.dll
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\refint\PR_5.dll
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\PR_5.pdb
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\PR_5.genruntimeconfig.cache
+C:\work\mdk 01.04\PR_5\PR_5\obj\Debug\net9.0\ref\PR_5.dll
