@@ -1,0 +1,14 @@
+C:\work\mdk 01.04\PR_4\PR_4\bin\Debug\net9.0\PR_4.exe
+C:\work\mdk 01.04\PR_4\PR_4\bin\Debug\net9.0\PR_4.deps.json
+C:\work\mdk 01.04\PR_4\PR_4\bin\Debug\net9.0\PR_4.runtimeconfig.json
+C:\work\mdk 01.04\PR_4\PR_4\bin\Debug\net9.0\PR_4.dll
+C:\work\mdk 01.04\PR_4\PR_4\bin\Debug\net9.0\PR_4.pdb
+C:\work\mdk 01.04\PR_4\PR_4\obj\Debug\net9.0\PR_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\mdk 01.04\PR_4\PR_4\obj\Debug\net9.0\PR_4.AssemblyInfoInputs.cache
+C:\work\mdk 01.04\PR_4\PR_4\obj\Debug\net9.0\PR_4.AssemblyInfo.cs
+C:\work\mdk 01.04\PR_4\PR_4\obj\Debug\net9.0\PR_4.csproj.CoreCompileInputs.cache
+C:\work\mdk 01.04\PR_4\PR_4\obj\Debug\net9.0\PR_4.dll
+C:\work\mdk 01.04\PR_4\PR_4\obj\Debug\net9.0\refint\PR_4.dll
+C:\work\mdk 01.04\PR_4\PR_4\obj\Debug\net9.0\PR_4.pdb
+C:\work\mdk 01.04\PR_4\PR_4\obj\Debug\net9.0\PR_4.genruntimeconfig.cache
+C:\work\mdk 01.04\PR_4\PR_4\obj\Debug\net9.0\ref\PR_4.dll
