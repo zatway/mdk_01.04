@@ -1,0 +1,15 @@
+C:\work\mdk 01.04\PR_7\PR_7\bin\Debug\net9.0\PR_7.exe
+C:\work\mdk 01.04\PR_7\PR_7\bin\Debug\net9.0\PR_7.deps.json
+C:\work\mdk 01.04\PR_7\PR_7\bin\Debug\net9.0\PR_7.runtimeconfig.json
+C:\work\mdk 01.04\PR_7\PR_7\bin\Debug\net9.0\PR_7.dll
+C:\work\mdk 01.04\PR_7\PR_7\bin\Debug\net9.0\PR_7.pdb
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\PR_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\PR_7.AssemblyInfoInputs.cache
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\PR_7.AssemblyInfo.cs
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\PR_7.csproj.CoreCompileInputs.cache
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\PR_7.sourcelink.json
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\PR_7.dll
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\refint\PR_7.dll
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\PR_7.pdb
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\PR_7.genruntimeconfig.cache
+C:\work\mdk 01.04\PR_7\PR_7\obj\Debug\net9.0\ref\PR_7.dll
