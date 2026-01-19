@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="PZ_22.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PZ_22"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Заказ газировки" Style="{StaticResource HeaderTextBlockStyle}" 
+                   HorizontalAlignment="Center" Margin="0,20,0,10"/>
+
+        <StackPanel Grid.Row="1" Margin="40,10,40,20" Orientation="Vertical">
+
+            <TextBlock Text="Выберите напиток (0,5 л):" FontSize="18" FontWeight="SemiBold" Margin="0,0,0,8"/>
+            <CheckBox x:ConnectionId='3' x:Name="chkCola" Content="Кола — 200 ₽" Tag="200"                                              />
+            <CheckBox x:ConnectionId='4' x:Name="chkFanta" Content="Fanta — 200 ₽" Tag="200"                                              />
+            <CheckBox x:ConnectionId='5' x:Name="chkSprite" Content="Sprite — 200 ₽" Tag="200"                                              />
+            <CheckBox x:ConnectionId='6' x:Name="chk7Up" Content="7UP — 200 ₽" Tag="200"                                              />
+            <CheckBox x:ConnectionId='7' x:Name="chkMirinda" Content="Mirinda — 200 ₽" Tag="200"                                              />
+
+            <TextBlock Text="Добавки:" FontSize="18" FontWeight="SemiBold" Margin="0,24,0,8"/>
+            <CheckBox x:ConnectionId='8' x:Name="chkIce" Content="Лёд (+10 ₽)" Tag="10"                                              />
+            <CheckBox x:ConnectionId='9' x:Name="chkLemon" Content="Лимон / лайм (+20 ₽)" Tag="20"                                              />
+            <CheckBox x:ConnectionId='10' x:Name="chkMint" Content="Свежая мята (+25 ₽)" Tag="25"                                              />
+            <CheckBox x:ConnectionId='11' x:Name="chkSyrup" Content="Фруктовый сироп (+35 ₽)" Tag="35"                                              />
+        </StackPanel>
+
+        <Border Grid.Row="2" Background="LightGray" Padding="20" CornerRadius="8">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Text="Итого: " FontSize="20" FontWeight="Bold"/>
+                <TextBlock x:ConnectionId='2' x:Name="tbTotal" Text="0 ₽" FontSize="20" FontWeight="Bold" Foreground="DarkGreen"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>
+
