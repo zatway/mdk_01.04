@@ -1,0 +1,6 @@
+C:\work\mdk 01.04\PZ_20\PZ_20\bin\Debug\PZ_20.exe
+C:\work\mdk 01.04\PZ_20\PZ_20\bin\Debug\PZ_20.pdb
+C:\work\mdk 01.04\PZ_20\PZ_20\obj\Debug\PZ_20.csproj.AssemblyReference.cache
+C:\work\mdk 01.04\PZ_20\PZ_20\obj\Debug\PZ_20.csproj.CoreCompileInputs.cache
+C:\work\mdk 01.04\PZ_20\PZ_20\obj\Debug\PZ_20.exe
+C:\work\mdk 01.04\PZ_20\PZ_20\obj\Debug\PZ_20.pdb
