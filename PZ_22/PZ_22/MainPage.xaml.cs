@@ -14,7 +14,6 @@ namespace PZ_22
             InitializeComponent();
             UpdateTotal(null, null);
         }
-
         private void UpdateTotal(object sender, RoutedEventArgs e)
         {
             int total = 0;

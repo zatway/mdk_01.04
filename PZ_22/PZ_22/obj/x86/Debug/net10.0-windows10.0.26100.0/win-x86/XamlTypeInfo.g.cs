@@ -199,17 +199,19 @@ namespace PZ_22.PZ_22_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[4];
+            _typeNameTable = new string[5];
             _typeNameTable[0] = "PZ_22.MainPage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "Windows.UI.Xaml.Controls.TreeViewNode";
+            _typeNameTable[3] = "Int32";
+            _typeNameTable[4] = "Windows.UI.Xaml.Controls.TreeViewNode";
 
-            _typeTable = new global::System.Type[4];
+            _typeTable = new global::System.Type[5];
             _typeTable[0] = typeof(global::PZ_22.MainPage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::Windows.UI.Xaml.Controls.TreeViewNode);
+            _typeTable[3] = typeof(global::System.Int32);
+            _typeTable[4] = typeof(global::Windows.UI.Xaml.Controls.TreeViewNode);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -261,6 +263,7 @@ namespace PZ_22.PZ_22_XamlTypeInfo
             case 0:   //  PZ_22.MainPage
                 userType = new global::PZ_22.PZ_22_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_0_MainPage;
+                userType.AddMemberName("CurrentTotal");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -273,7 +276,11 @@ namespace PZ_22.PZ_22_XamlTypeInfo
                 xamlType = new global::PZ_22.PZ_22_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  Windows.UI.Xaml.Controls.TreeViewNode
+            case 3:   //  Int32
+                xamlType = new global::PZ_22.PZ_22_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 4:   //  Windows.UI.Xaml.Controls.TreeViewNode
                 xamlType = new global::PZ_22.PZ_22_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
             }
@@ -281,11 +288,26 @@ namespace PZ_22.PZ_22_XamlTypeInfo
         }
 
 
+        private object get_0_MainPage_CurrentTotal(object instance)
+        {
+            var that = (global::PZ_22.MainPage)instance;
+            return that.CurrentTotal;
+        }
 
         private global::Windows.UI.Xaml.Markup.IXamlMember CreateXamlMember(string longMemberName)
         {
             global::PZ_22.PZ_22_XamlTypeInfo.XamlMember xamlMember = null;
-            // No Local Properties
+            global::PZ_22.PZ_22_XamlTypeInfo.XamlUserType userType;
+
+            switch (longMemberName)
+            {
+            case "PZ_22.MainPage.CurrentTotal":
+                userType = (global::PZ_22.PZ_22_XamlTypeInfo.XamlUserType)GetXamlTypeByName("PZ_22.MainPage");
+                xamlMember = new global::PZ_22.PZ_22_XamlTypeInfo.XamlMember(this, "CurrentTotal", "Int32");
+                xamlMember.Getter = get_0_MainPage_CurrentTotal;
+                xamlMember.SetIsReadOnly();
+                break;
+            }
             return xamlMember;
         }
     }
