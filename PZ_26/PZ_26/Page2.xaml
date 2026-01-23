@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="PZ_26.Page2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PZ_26"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Red">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="16">
+            <TextBlock Text="Страница 2" 
+                       FontSize="36" FontWeight="Bold" 
+                       Foreground="Yellow" HorizontalAlignment="Center"/>
+
+            <TextBlock x:Name="tbMessage" FontSize="20" 
+                       TextWrapping="Wrap" MaxWidth="500" 
+                       HorizontalAlignment="Center" Foreground="#424242"/>
+
+            <StackPanel Orientation="Horizontal" Spacing="16" HorizontalAlignment="Center">
+                <Button Content="На главную" Background="Gray" Click="BtnHome_Click" Width="160"/>
+                <Button Content="Страница 1" Background="Blue" Click="BtnPage1_Click" Width="160"/>
+                <Button Content="Страница 3" Background="Green" Click="BtnPage3_Click" Width="160"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

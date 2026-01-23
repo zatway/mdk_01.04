@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\mdk 01.04\\PZ_26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|c:\\work\\mdk 01.04\\pz_26\\pz_26\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|solutionrelative:pz_26\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|c:\\work\\mdk 01.04\\pz_26\\pz_26\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|solutionrelative:pz_26\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|c:\\work\\mdk 01.04\\pz_26\\pz_26\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|solutionrelative:pz_26\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|c:\\work\\mdk 01.04\\pz_26\\pz_26\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|solutionrelative:pz_26\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|c:\\work\\mdk 01.04\\pz_26\\pz_26\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|solutionrelative:pz_26\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|c:\\work\\mdk 01.04\\pz_26\\pz_26\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|solutionrelative:pz_26\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|c:\\work\\mdk 01.04\\pz_26\\pz_26\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C851A40A-6D77-4C06-A4EE-810523FFECE9}|PZ_26\\PZ_26.csproj|solutionrelative:pz_26\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "PZ_26\\Page3.xaml.cs",
+              "ToolTip": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page3.xaml.cs",
+              "RelativeToolTip": "PZ_26\\Page3.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T16:52:15.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "PZ_26\\Page2.xaml.cs",
+              "ToolTip": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page2.xaml.cs",
+              "RelativeToolTip": "PZ_26\\Page2.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T16:51:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PZ_26\\MainPage.xaml.cs",
+              "ToolTip": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\MainPage.xaml.cs",
+              "RelativeToolTip": "PZ_26\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T16:50:17.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PZ_26\\MainPage.xaml",
+              "ToolTip": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\MainPage.xaml",
+              "RelativeToolTip": "PZ_26\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-23T16:50:12.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page3.xaml",
+              "RelativeDocumentMoniker": "PZ_26\\Page3.xaml",
+              "ToolTip": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page3.xaml*",
+              "RelativeToolTip": "PZ_26\\Page3.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-23T16:45:35.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page2.xaml",
+              "RelativeDocumentMoniker": "PZ_26\\Page2.xaml",
+              "ToolTip": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page2.xaml",
+              "RelativeToolTip": "PZ_26\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-23T16:45:33.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page1.xaml",
+              "RelativeDocumentMoniker": "PZ_26\\Page1.xaml",
+              "ToolTip": "C:\\work\\mdk 01.04\\PZ_26\\PZ_26\\Page1.xaml*",
+              "RelativeToolTip": "PZ_26\\Page1.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-23T16:45:31.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
