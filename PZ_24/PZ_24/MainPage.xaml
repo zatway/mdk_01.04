@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="PZ_24.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PZ_24"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{StaticResource PageBackgroundBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Padding="16" Background="{StaticResource AppBackgroundBrush}">
+            <TextBox x:Name="txtUrl"
+                     Style="{StaticResource UrlTextBoxStyle}"
+                     PlaceholderText="Введите адрес (например, https://example.com)"
+                     KeyDown="txtUrl_KeyDown"/>
+
+            <Button Content="Перейти"
+                    Style="{StaticResource ActionButtonStyle}"
+                    Click="BtnGo_Click"/>
+
+            <Button Content="Добавить в закладки"
+                    Style="{StaticResource ActionButtonStyle}"
+                    Click="BtnAddBookmark_Click"/>
+
+            <DropDownButton Content="Закладки"
+                            Style="{StaticResource BookmarksDropDownStyle}">
+                <DropDownButton.Flyout>
+                    <MenuFlyout x:Name="BookmarksMenu" Placement="Bottom"/>
+                </DropDownButton.Flyout>
+            </DropDownButton>
+        </StackPanel>
+
+        <WebView x:Name="webView"
+                 Grid.Row="1"
+                 Source="https://www.microsoft.com"
+                 NavigationCompleted="WebView_NavigationCompleted"/>
+    </Grid>
+</Page>

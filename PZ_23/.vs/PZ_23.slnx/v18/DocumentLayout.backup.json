@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\mdk 01.04\\PZ_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7644F9EC-1E5C-4C5E-9D7F-CA3986F17F93}|PZ_23\\PZ_23.csproj|c:\\work\\mdk 01.04\\pz_23\\pz_23\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7644F9EC-1E5C-4C5E-9D7F-CA3986F17F93}|PZ_23\\PZ_23.csproj|solutionrelative:pz_23\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7644F9EC-1E5C-4C5E-9D7F-CA3986F17F93}|PZ_23\\PZ_23.csproj|c:\\work\\mdk 01.04\\pz_23\\pz_23\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7644F9EC-1E5C-4C5E-9D7F-CA3986F17F93}|PZ_23\\PZ_23.csproj|solutionrelative:pz_23\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\work\\mdk 01.04\\PZ_23\\PZ_23\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PZ_23\\MainPage.xaml",
+              "ToolTip": "C:\\work\\mdk 01.04\\PZ_23\\PZ_23\\MainPage.xaml",
+              "RelativeToolTip": "PZ_23\\MainPage.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T15:03:06.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\work\\mdk 01.04\\PZ_23\\PZ_23\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PZ_23\\MainPage.xaml.cs",
+              "ToolTip": "C:\\work\\mdk 01.04\\PZ_23\\PZ_23\\MainPage.xaml.cs",
+              "RelativeToolTip": "PZ_23\\MainPage.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAArwD0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:03:06.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

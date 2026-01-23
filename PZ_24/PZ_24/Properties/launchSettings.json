@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "PZ_24": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
